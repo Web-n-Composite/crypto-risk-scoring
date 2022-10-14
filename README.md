@@ -14,11 +14,13 @@ https://etherscan.io/login
 
 Etherscan is a block explorer and analytics platform for Ethereum, tags bad wallets
 
+
 -   [Chainalysis](https://go.chainalysis.com/crypto-sanctions-screening.html)
 
 https://go.chainalysis.com/crypto-sanctions-screening.html
 
 Chainalysis is the blockchain data platform with a free sanctions API
+
 
 -   [PeckShield](https://peckshield.com/)
 
@@ -26,11 +28,13 @@ https://chrome.google.com/webstore/detail/peckshieldalert/dakkielolpafjbgnjnakdd
 
 A blockchain security and data analytics company with a Plugin
 
+
 -   [Sunrise.wtf](https://www.sunrise.wtf/)
 
 https://chrome.google.com/webstore/detail/sunrise-nft-scam-protecto/laciddhhmjgkkmlbcgflngnimonaidfc
 
 The multi-layer NFT scam protection plugin tool
+
 
 -   [ScamSniffer](https://scamsniffer.io/)
 
@@ -38,11 +42,13 @@ https://chrome.google.com/webstore/detail/scam-sniffer/mnkbccinkbalkmmnmbcicdobc
 
 Browser extension will alert you as soon as a phishing site that poses a risk is detected
 
+
 -   [ClankApp](https://clankapp.com/) 
 
 <https://docs.clankapp.com/#introduction>
 
 Ecxplore the blockchain (ETH, BTC, DOGE) or try the Crypto Wales free API
+
 
 -   [Alien Vault](https://otx.alienvault.com/)
 
@@ -50,11 +56,13 @@ Ecxplore the blockchain (ETH, BTC, DOGE) or try the Crypto Wales free API
 
 Gain FREE access to over 20 million threat indicators contributed daily
 
+
 -   [Solana Analytics](https://analytics.solscan.io/)
 
 <https://public-api.solscan.io/docs/#/>
 
 Real-time updates of Solana Network statistics, including total transactions, TPS performance, total fees, number of blocks created, and the number of validators & vote accounts and free APIs
+
 
 # Business-Scale Cryptocurrency Transaction Risk Scoring
 
