@@ -1,6 +1,6 @@
 # crypto-risk-scoring
 
-## Cryptocurrency risk scoring services list
+Cryptocurrency risk scoring services list
 
 # Crypto Risk Assessment Services
 
