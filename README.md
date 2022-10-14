@@ -1,12 +1,12 @@
 # crypto-risk-scoring
 
-##Cryptocurrency risk scoring services list
+## Cryptocurrency risk scoring services list
 
-#Crypto Risk Assessment Services
+# Crypto Risk Assessment Services
 
 The market for cryptocurrencies is still relatively new and uncertain. The price of cryptocurrencies can rapidly increase or decrease at any time and may even fall to zero. The risk of loss in trading or holding an interest in cryptocurrencies can be substantial and can result in the loss of the entire value of your cryptocurrency. Here are some useful resources for individuals or enterprises to check the risk score of their transactions prior to trading.
 
-#Accessible to individuals: 
+# Accessible to individuals: 
 
 -   [Etherscan](https://etherscan.io/)
 
@@ -56,7 +56,7 @@ Gain FREE access to over 20 million threat indicators contributed daily
 
 Real-time updates of Solana Network statistics, including total transactions, TPS performance, total fees, number of blocks created, and the number of validators & vote accounts and free APIs
 
-#Business-Scale Cryptocurrency Transaction Risk Scoring
+# Business-Scale Cryptocurrency Transaction Risk Scoring
 
 -   [ScoreChain](https://www.scorechain.com/)
 
