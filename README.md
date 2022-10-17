@@ -29,12 +29,8 @@ Browser extension will alert you as soon as a phishing site that poses a risk is
 https://chrome.google.com/webstore/detail/scam-sniffer/mnkbccinkbalkmmnmbcicdobcmgggmfc
 
 -   [ClankApp](https://clankapp.com/) 
-Ecxplore the blockchain (ETH, BTC, DOGE) or try the Crypto Wales free API
+Explore the blockchain (ETH, BTC, DOGE) or try the Crypto Wales free API
 <https://docs.clankapp.com/#introduction>
-
--   [Alien Vault](https://otx.alienvault.com/)
-Gain FREE access to over 20 million threat indicators contributed daily
-<https://otx.alienvault.com/endpoint-security/welcome>
 
 -   [Solana Analytics](https://analytics.solscan.io/)
 Real-time updates of Solana Network statistics, including total transactions, TPS performance, total fees, number of blocks created, and the number of validators & vote accounts and free APIs
