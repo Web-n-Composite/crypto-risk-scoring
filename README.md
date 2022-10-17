@@ -8,33 +8,26 @@ The market for cryptocurrencies is still relatively new and uncertain. The price
 
 # Accessible to individuals: 
 
--   [Etherscan](https://etherscan.io/)
+-   [Etherscan]([https://etherscan.io/](https://etherscan.io/login))
 Etherscan is a block explorer and analytics platform for Ethereum, tags bad wallets
-https://etherscan.io/login
 
--   [Chainalysis](https://go.chainalysis.com/crypto-sanctions-screening.html)
+-   [Chainalysis]([https://go.chainalysis.com/crypto-sanctions-screening.html](https://go.chainalysis.com/crypto-sanctions-screening.html))
 Chainalysis is the blockchain data platform with a free sanctions API
-https://go.chainalysis.com/crypto-sanctions-screening.html
 
--   [PeckShield](https://peckshield.com/)
+-   [PeckShield]([https://peckshield.com/](https://chrome.google.com/webstore/detail/peckshieldalert/dakkielolpafjbgnjnakddabmbbkcioe))
 A blockchain security and data analytics company with a Plugin
-https://chrome.google.com/webstore/detail/peckshieldalert/dakkielolpafjbgnjnakddabmbbkcioe
 
--   [Sunrise.wtf](https://www.sunrise.wtf/)
+-   [Sunrise.wtf]([https://www.sunrise.wtf/](https://chrome.google.com/webstore/detail/sunrise-nft-scam-protecto/laciddhhmjgkkmlbcgflngnimonaidfc))
 The multi-layer NFT scam protection plugin tool
-https://chrome.google.com/webstore/detail/sunrise-nft-scam-protecto/laciddhhmjgkkmlbcgflngnimonaidfc
 
--   [ScamSniffer](https://scamsniffer.io/)
+-   [ScamSniffer]([https://scamsniffer.io/](https://chrome.google.com/webstore/detail/scam-sniffer/mnkbccinkbalkmmnmbcicdobcmgggmfc))
 Browser extension will alert you as soon as a phishing site that poses a risk is detected
-https://chrome.google.com/webstore/detail/scam-sniffer/mnkbccinkbalkmmnmbcicdobcmgggmfc
 
--   [ClankApp](https://clankapp.com/) 
+-   [ClankApp]([https://clankapp.com/](https://docs.clankapp.com/#introduction)) 
 Explore the blockchain (ETH, BTC, DOGE) or try the Crypto Wales free API
-<https://docs.clankapp.com/#introduction>
 
--   [Solana Analytics](https://analytics.solscan.io/)
+-   [Solana Analytics]([https://analytics.solscan.io/](https://public-api.solscan.io/docs/#/))
 Real-time updates of Solana Network statistics, including total transactions, TPS performance, total fees, number of blocks created, and the number of validators & vote accounts and free APIs
-<https://public-api.solscan.io/docs/#/>
 
 
 # Business-Scale Cryptocurrency Transaction Risk Scoring
