@@ -8,7 +8,7 @@ The market for cryptocurrencies is still relatively new and uncertain. The price
 
 # Accessible to individuals: 
 
--  | [Etherscan]([https://etherscan.io/](https://etherscan.io/login)
+-  | [Etherscan]((https://etherscan.io/login)
 Etherscan is a block explorer and analytics platform for Ethereum, tags bad wallets |
 
 -   [Chainalysis]([https://go.chainalysis.com/crypto-sanctions-screening.html](https://go.chainalysis.com/crypto-sanctions-screening.html)
