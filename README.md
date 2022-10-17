@@ -12,25 +12,31 @@ The market for cryptocurrencies is still relatively new and uncertain. The price
 
 Etherscan is a block explorer and analytics platform for Ethereum, tags bad wallets 
 
+
 -   [Chainalysis](https://go.chainalysis.com/crypto-sanctions-screening.html)
 
 Chainalysis is the blockchain data platform with a free sanctions API
+
 
 -   [PeckShield](https://chrome.google.com/webstore/detail/peckshieldalert/dakkielolpafjbgnjnakddabmbbkcioe)
 
 A blockchain security and data analytics company with a Plugin
 
+
 -   [Sunrise.wtf](https://chrome.google.com/webstore/detail/sunrise-nft-scam-protecto/laciddhhmjgkkmlbcgflngnimonaidfc)
 
 The multi-layer NFT scam protection plugin tool
+
 
 -   [ScamSniffer](https://chrome.google.com/webstore/detail/scam-sniffer/mnkbccinkbalkmmnmbcicdobcmgggmfc)
 
 Browser extension will alert you as soon as a phishing site that poses a risk is detected
 
+
 -   [ClankApp](https://docs.clankapp.com/#introduction))
 
 Explore the blockchain (ETH, BTC, DOGE) or try the Crypto Wales free API
+
 
 -   [Solana Analytics](https://public-api.solscan.io/docs/#/)
 
