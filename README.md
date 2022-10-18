@@ -1,12 +1,8 @@
-# crypto-risk-scoring
+# Crypto Risk Scoring
 
-Cryptocurrency risk scoring services list
+Cryptocurrency risk scoring services list - some useful resources for individuals or enterprises to check the risk score of their transactions prior to trading.
 
-# Crypto Risk Assessment Services
-
-The market for cryptocurrencies is still relatively new and uncertain. The price of cryptocurrencies can rapidly increase or decrease at any time and may even fall to zero. The risk of loss in trading or holding an interest in cryptocurrencies can be substantial and can result in the loss of the entire value of your cryptocurrency. Here are some useful resources for individuals or enterprises to check the risk score of their transactions prior to trading.
-
-# Accessible to individuals: 
+# Crypo Risk Scoring/Assessment for individuals: 
 
 -   [Etherscan](https://etherscan.io/login)
 Etherscan is a block explorer and analytics platform for Ethereum, tags bad wallets 
