@@ -4,6 +4,9 @@ Cryptocurrency risk scoring services list - some useful resources for individual
 
 # Crypo Risk Scoring/Assessment for individuals: 
 
+- [GreySafe](https://greysafe.com/)
+GreySafe is a community-driven crypto threat actor reporting service that takes submissions from all chains and focuses on validating and attributing them accurately.
+
 -   [Etherscan](https://etherscan.io/login)
 Etherscan is a block explorer and analytics platform for Ethereum, tags bad wallets 
 
@@ -13,7 +16,7 @@ Chainalysis is the blockchain data platform with a free sanctions API
 
 
 -   [PeckShield](https://chrome.google.com/webstore/detail/peckshieldalert/dakkielolpafjbgnjnakddabmbbkcioe)
-A blockchain security and data analytics company with a Plugin
+A blockchain security and data analytics company with a plugin
 
 
 -   [Sunrise.wtf](https://chrome.google.com/webstore/detail/sunrise-nft-scam-protecto/laciddhhmjgkkmlbcgflngnimonaidfc)
