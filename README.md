@@ -4,6 +4,9 @@ Cryptocurrency risk scoring services list - some useful resources for individual
 
 # Crypo Risk Scoring/Assessment for individuals: 
 
+- [Januus](https://github.com/januusio/cryptowallet_risk_scoring)
+Januus are offering free risk scores through a public code repo
+
 - [GreySafe](https://greysafe.com/)
 GreySafe is a community-driven crypto threat actor reporting service that takes submissions from all chains and focuses on validating and attributing them accurately.
 
