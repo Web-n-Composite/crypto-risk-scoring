@@ -3,8 +3,6 @@
 Cryptocurrency risk scoring services list - some useful resources for individuals or enterprises to check the risk score of their transactions prior to trading.
 
 ![risk scoring](https://user-images.githubusercontent.com/115635833/199210455-d0d632fb-0bc4-4dd5-aebb-8b01bda74599.jpg)
-
-
 # Crypo Risk Scoring/Assessment for individuals: 
 
 - [Januus](https://github.com/januusio/cryptowallet_risk_scoring)
