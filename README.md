@@ -2,6 +2,9 @@
 
 Cryptocurrency risk scoring services list - some useful resources for individuals or enterprises to check the risk score of their transactions prior to trading.
 
+![risk scoring](https://user-images.githubusercontent.com/115635833/199210455-d0d632fb-0bc4-4dd5-aebb-8b01bda74599.jpg)
+
+
 # Crypo Risk Scoring/Assessment for individuals: 
 
 - [Januus](https://github.com/januusio/cryptowallet_risk_scoring)
@@ -36,6 +39,8 @@ Explore the blockchain (ETH, BTC, DOGE) or try the Crypto Wales free API
 
 -   [Solana Analytics](https://public-api.solscan.io/docs/#/)
 Real-time updates of Solana Network statistics, including total transactions, TPS performance, total fees, number of blocks created, and the number of validators & vote accounts and free APIs
+
+![risk scoring 2](https://user-images.githubusercontent.com/115635833/199210498-510b2a66-ac1e-4e76-9890-a33b62254624.jpg)
 
 
 # Business-Scale Cryptocurrency Transaction Risk Scoring
