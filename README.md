@@ -2,7 +2,9 @@
 
 # Crypto Risk Scoring
 
-![image](https://user-images.githubusercontent.com/114734003/206850749-3571c397-f239-46ba-a57f-f49a1d303695.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/114734003/206850749-3571c397-f239-46ba-a57f-f49a1d303695.png" width="500" height="350">
+<p>
   
 Cryptocurrency risk scoring services list - some useful resources for individuals or enterprises to check the risk score of their transactions prior to trading.
 
